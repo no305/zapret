@@ -1,5 +1,5 @@
 which()
-{
+{11
 	# on some systems 'which' command is considered deprecated and not installed by default
 	# 'command -v' replacement does not work exactly the same way. it outputs shell aliases if present
 	# $1 - executable name
